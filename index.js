@@ -1,3 +1,4 @@
+//create arrays for creating cards
 let cards = [];
 const sets = ['red','yellow','black'];
 
